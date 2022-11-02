@@ -3,11 +3,17 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=xahirmushtaq&label=Profile%20views&color=0e75b6&style=flat" alt="xahirmushtaq" /> </p>
 
+- 🔭 I’m working on **some mini front-end projects for newbies to practice my skills**
+
 - 🌱 I’m currently learning **JavaScript**
+
+- 👫 I’m looking to **collaborate with fellow developers**
+
+- 🎯 2023 Goals: **To learn more and more about tech and grow as a front-end developer**
 
 - 👨‍💻 All of my projects are available at [https://github.com/xahirmushtaq](https://github.com/xahirmushtaq)
 
-- 💬 Ask me about **Web Technologies, Android.**
+- 💬 Ask me about **Web Technologies and Android.**
 
 - 📫 How to reach me **zahirdar07@gmail.com**
 
