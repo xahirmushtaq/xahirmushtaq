@@ -3,6 +3,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=xahirmushtaq&label=Profile%20views&color=0e75b6&style=flat" alt="xahirmushtaq" /> </p>
 
+<p align="left"> <a href="https://twitter.com/_zaii__" target="blank"><img src="https://img.shields.io/twitter/follow/_zaii__?logo=twitter&style=for-the-badge" alt="_zaii__" /></a> </p>
+
 - 🔭 I’m working on **some mini front-end projects for newbies to practice my skills**
 
 - 🌱 I’m currently learning **JavaScript**
@@ -21,8 +23,7 @@
 
 - ⚡ Fun fact **I love to travel and play videogames**
 
-<a href="https://app.daily.dev/zahirmushtaq"><img src="https://api.daily.dev/devcards/2c4f43b54bff4012940cd0346a25ff61.png?r=gnv" width="400" alt="Zahir Mushtaq's Dev Card"/></a>
-
+<a href="https://app.daily.dev/zahirmushtaq"><img src="https://api.daily.dev/devcards/2c4f43b54bff4012940cd0346a25ff61.png?r=t15" width="400" alt="Zahir Mushtaq's Dev Card"/></a>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/_zaii__" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="_zaii__" height="30" width="40" /></a>
