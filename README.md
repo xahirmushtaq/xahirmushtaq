@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=xahirmushtaq&label=Profile%20views&color=0e75b6&style=flat" alt="xahirmushtaq" /> </p>
 
-<p align="left"> <a href="https://twitter.com/_zaii__" target="blank"><img src="https://img.shields.io/twitter/follow/_zaii__?logo=twitter&style=for-the-badge" alt="_zaii__" /></a> </p>
+<p align="left"> <a href="https://twitter.com/xahirmushtaq" target="blank"><img src="https://img.shields.io/twitter/follow/xahirmushtaq?logo=twitter&style=for-the-badge" alt="_zaii__" /></a> </p>
 
 - 🔭 I’m working on **some mini front-end projects for newbies to practice my skills**
 
