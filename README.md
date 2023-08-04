@@ -7,7 +7,7 @@
 
 - 🔭 I’m working on **some mini front-end projects for newbies to practice my skills**
 
-- 🌱 I’m currently learning **JavaScript**
+- 🌱 I’m currently learning **React**
 
 - 👫 I’m looking to **collaborate with fellow developers**
 
