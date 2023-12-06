@@ -7,6 +7,8 @@
 
 - 🔭 I’m working on **some mini front-end projects for newbies to practice my skills**
 
+- 📄 Portfolio  [https://zahirmushtaq.vercel.app](https://zahirmushtaq.vercel.app)
+
 - 🌱 I’m currently learning **React**
 
 - 👫 I’m looking to **collaborate with fellow developers**
@@ -18,8 +20,6 @@
 - 💬 Ask me about **Web Technologies and Android.**
 
 - 📫 How to reach me **https://www.linkedin.com/in/zahir-mushtaq/**
-
-- 📄 Know about my experiences [https://github.com/xahirmushtaq](https://github.com/xahirmushtaq)
 
 - ⚡ Fun fact **I love to travel and play videogames**
 
