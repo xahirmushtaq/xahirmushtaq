@@ -5,9 +5,9 @@
 
 <p align="left"> <a href="https://twitter.com/xahirmushtaq" target="blank"><img src="https://img.shields.io/twitter/follow/xahirmushtaq?logo=twitter&style=for-the-badge" alt="_zaii__" /></a> </p>
 
-- 🔭 I’m working on **some mini front-end projects for newbies to practice my skills**
-
 - 📄 Portfolio  [https://zahirmushtaq.vercel.app](https://zahirmushtaq.vercel.app)
+
+- 🔭 I’m working on **some mini front-end projects for newbies to practice my skills**
 
 - 🌱 I’m currently learning **React**
 
