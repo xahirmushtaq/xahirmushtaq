@@ -13,7 +13,7 @@
 
 - 👫 I’m looking to **collaborate with fellow developers**
 
-- 🎯 2023 Goals: **To learn more and more about tech and grow as a front-end developer**
+- 🎯 2024 Goals: **To learn more and more about tech and grow as a front-end developer**
 
 - 👨‍💻 All of my projects are available at [https://github.com/xahirmushtaq](https://github.com/xahirmushtaq)
 
